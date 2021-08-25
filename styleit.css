@@ -12,7 +12,7 @@ section{padding: 100px;}
 
 .banner{position: relative;
 min-height: 100vh;
-background: url(met.jpg);
+background: url(images/met.jpg);
 background-size: cover;
 background-position: right;
 display: flex;
